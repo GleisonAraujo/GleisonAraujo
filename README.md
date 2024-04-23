@@ -1,6 +1,4 @@
-## Oi, meu nome é Gleison Miranda de Araujo
-***
-
+## **Oi, meu nome é Gleison Miranda de Araujo**
 **Para contato:**
 ***
 
