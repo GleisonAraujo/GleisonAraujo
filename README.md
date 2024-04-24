@@ -17,10 +17,11 @@ Oi, meu nome é Gleison, tenho 23 anos, estou cursando Análise e Desenvolviment
 
 
 
-**Para contato:**
+**Contato:**
 
 
 [![LinkedIn](linkedin_icon.png)](https://www.linkedin.com/in/gleison-araujo2)
+[araujo.gleison67@gmail.com](mailto:araujo.gleison67@gmail.com)
 
 
 ***
