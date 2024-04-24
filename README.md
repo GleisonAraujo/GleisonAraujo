@@ -17,7 +17,7 @@ Oi, meu nome é Gleison, tenho 23 anos, estou cursando Análise e Desenvolviment
 
 
 
-**Contato:**
+***Contato:***
 
 
 - [![LinkedIn](linkedin_icon.png)](https://www.linkedin.com/in/gleison-araujo2)
@@ -40,7 +40,9 @@ Oi, meu nome é Gleison, tenho 23 anos, estou cursando Análise e Desenvolviment
 - Padrão Model-View-Controller (MVC)
 
 
-**Tecnologias:**
+
+***
+***Tecnologias:***
 
 Java, Python, PHP, Dart, PostgreSQL, MySQL, Git, AWS, Linux, JavaScript, HTML, CSS
 
