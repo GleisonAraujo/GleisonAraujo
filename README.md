@@ -28,6 +28,18 @@ Oi, meu nome é Gleison, tenho 23 anos, estou cursando Análise e Desenvolviment
 
 ***
 
+
+***Possuo conhecimento em:***
+
+
+- Lógica de Programação
+- Programação em Python
+- Programação em Java
+- Programação Orientada a Objetos (POO)
+- Criação de Views
+- Padrão Model-View-Controller (MVC)
+
+
 **Tecnologias:**
 
 Java, Python, PHP, Dart, PostgreSQL, MySQL, Git, AWS, Linux, JavaScript, HTML, CSS
