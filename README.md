@@ -36,7 +36,7 @@ Oi, meu nome é Gleison, tenho 23 anos, estou cursando Análise e Desenvolviment
 - Programação em Python
 - Programação em Java
 - Programação Orientada a Objetos (POO)
-- Criação de Views
+- Modelagem Database
 - Padrão Model-View-Controller (MVC)
 
 
